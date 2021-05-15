@@ -1,8 +1,8 @@
-# BrainBlocks
+# Blockhead
 
-The current release is **BrainBlocks 0.7.0**.
+This is a fork of [The Aerospace Corporation](http://aerospace.org)'s [BrainBlocks](https://github.com/the-aerospace-corporation/brainblocks) library. It is not intended for general consumption. Instead it is a place where I can experiment with adding features. Please use the original instead of this one.
 
-![BrainBlocks Logo](docs/assets/brainblocks_logo.png "BrainBlocks")
+
 
 ## Introduction
 
